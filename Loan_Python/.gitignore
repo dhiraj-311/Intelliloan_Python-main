@@ -1,0 +1,35 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+.env
+.venv/
+env/
+.env/
+# pipenv
+Pipfile.lock
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# IDE and editor folders
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Logs
+*.log
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Test results
+test_results/
+
+# Local configurations
+local_config.py
